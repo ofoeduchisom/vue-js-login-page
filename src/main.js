@@ -8,4 +8,3 @@ createApp(App)
 .use(router)
 .mount('#app')
 
-this.$router.push('profile')
